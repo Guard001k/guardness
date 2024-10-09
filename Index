@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Random Work</title>
+    </head>
+    
+
+    <body>
+        <a href="http://facebook.com"> Sign Up </a> 
+        <a href="http:// pinterest.com"> SIgn In </a> 
+        <a href="http:// cygphix.com"> Explore </a>
+
+        <h1>GUARDNESS </h1>
+
+        <P>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            "There is no one who loves pain itself, who seeks after it and wants to have it, simply
+            because it is pain..."
+        </P>
+        <hr>
+        
+        <p> Lorem ipsum dolor sit
+             amet, consectetur adipiscing elit. Curabitur molestie mi pulvinar inte
+             rdum tempus. Phasellus nisl dolor, cursus eget elementum nec, facilisis sed ante. 
+             Pellentesque a purus egestas, ultrices nisl eget, luctus tortor. Integer vel dictum nisi. 
+             Praesent varius risus eu laoreet auctor. Nulla nec arcu eget velit ultrices scelerisque.
+              Sed et turpis dui. Class aptent taciti sociosqu ad litora torquent per conubia nostra, 
+              per inceptos himenaeos. Suspendisse commodo placerat dolor. Donec a velit velit.
+        </p>
+
+        <P>     Vivamus lacinia sem at dolor bibendum semper. Quisque sollicitudin lacus et lacus viverra, sagittis  molestie urna elementum. Aenean dapibus mollis tincidunt. Vivamus neque augue, pretium eget mauris at, sodales sodales nibh. Maecenas nec elementum libero. Vivamus a lectus euismod, convallis augue id, porta libero. Curabitur nec massa et mi semper suscipit eu vel urna. Aenean gravida nibh in pretium ornare. Fusce eu eros laoreet, iaculis metus non, sollicitudin eros. Pellentesque vulputate, nisl in volutpat egestas, ex mi finibus arcu, sed accumsan tortor mauris vitae nisi. Nullam vitae dolor et ex commodo varius. Aliquam erat volutpat. Vivamus ut justo id libero eleifend blandit et eget quam.
+        </P>
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
